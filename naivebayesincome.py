@@ -18,7 +18,7 @@ print(df.describe())
 #-------------------------------------------
 
 
-#Here, we will use the glucose and the bloodpressure to predict if the person has diabetes or not using Naive Bayes.
+
 from sklearn.model_selection import train_test_split
 
 
